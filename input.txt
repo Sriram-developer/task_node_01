@@ -1,0 +1,17 @@
+NodeJs
+1. File System Operations:
+Task: Create a Node.js script that reads a text file, modifies its content, and writes it to a new file.
+2. Requirements: Use Node.js built-in modules like fs to perform file system operations such as
+reading and writing files.
+3. Express.js Basics:
+Task: Create a simple Express.js application with routes for handling GET and POST requests.
+Requirements: Use the Express.js framework to define routes and handle HTTP requests.
+4. Middleware Implementation:
+Task: Implement custom middleware in an Express.js application to log request details like URL and
+method.
+Requirements: Understand the concept of middleware in Express.js and how to use it to modify
+request and response objects.
+5. RESTful API Development:
+Task: Develop a RESTful API with CRUD operations for a resource (e.g., users, products) using
+Express.js.
+Requirements: Defin
